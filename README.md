@@ -1,1 +1,2 @@
-# task2-HNGi8
+# submission task2-HNGi8
+This project is part of task submission for [HNGi8](https://internship.zuri.team) ![HNG Image](./hnglogo.png) and it contains an landing page which links to portfolio page and a resume.
